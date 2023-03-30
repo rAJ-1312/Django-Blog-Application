@@ -8,7 +8,7 @@ This Blogging web application project is purely made with Django as the backend 
 
 If you want to work with this project or create a version of it make sure to follow the steps below!
 
-0. Make sure to install ` Python 3 `, ` pip ` and ` virtualenv `   
+ Make sure to install ` Python 3 `, ` pip ` and ` virtualenv `   
 1. Create a project folder
    
     ```bash
@@ -52,7 +52,7 @@ Make sure you are in `env` and then do the following each at a time.
 List all blog posts with Title, Author Name, Date Posted, Image, and some body part with Read More button.
 
 ### Blog Detail View
-To view the complete blog post when clicked on the Title.
+View the complete blog post when clicked on the Title.
 
 ### Recent Posts
 List all the post which are created recently with Image thumb and Title.
