@@ -90,7 +90,7 @@ Users can edit Profile Image, First Name, Last Name, Email id, username, passwor
 
 ## Tech Stacks
 
-* **Language:**  Python 3.7
+* **Language:**  Python 3.10
 * **Framework:** Django 3.1.5
 
 ## Latest Fixes
